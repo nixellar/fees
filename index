@@ -1,0 +1,64 @@
+<html></body><style>html{background-image:linear-gradient(to left,rgba(2,3,256,0.4),rgba(228,98,28,0.4));  font-family: "Times New Roman", Times, serif;}a,h3{color:brown}h1{color:grey}</style>
+<h1> Nixellar</h1>
+
+<i>Please <a href="../services/index">read</a> about the 'Type of Service' you desire, to know more about it.</i>
+<h2>Fee structure for available services:</h2>
+<h3>Type A : [XLM] into [Nixellar]</h3><i>We do not levy any fee for this kind of Service.</i>
+
+
+<li>Click <a href="">here</a> for a comprehensive guide.
+<h3>Type B : [XLM] into [NIX]</h3><i>We do not levy any fee for this kind of Service.</i>
+<li>Click <a href="">here</a> for a comprehensive guide.<h3>Type C : [Nixellar] into [XLM]</h3><i>We do not levy any fee for this kind of Service.</i>
+<li>Click <a href="">here</a> for a comprehensive guide.
+<h3>Type D : [Nixellar] into [NIX]</h3>
+0.1 NIX or 0.1% NIX, whichever is greater and 0.1 Nixellar or 0.1% Nixellar, whichever is greater.
+<li>Click <a href="">here</a> for a comprehensive guide.
+<h3>Type E : [NIX] into [Nixellar]</h3>
+<h4>Route 1</h4>
+0.1 NIX or 0.1% NIX, whichever is greater and 0.1 Nixellar or 0.1% Nixellar, whichever is greater.
+<li>Click <a href="">here</a> for a comprehensive guide.
+<h4>Route 2</h4>
+0.1 NIX or 0.1% NIX, whichever is greater and 3.2 XLM worth of NIX.<br>3.1 XLM will be credited back in users Stellar blockchain account.
+<li>Click <a href="">here</a> for a comprehensive guide.
+<h4>Route 3</h4>
+0.1 NIX or 0.1% NIX, whichever is greater and 3.2 XLM worth of NIX.<br>3.1 XLM will be credited back in users Stellar blockchain account.
+<li>Click <a href="">here</a> for a comprehensive guide.
+<h3>Type F : [NIX] into [XLM]</h3><i>We do not levy any fee for this kind of Service.</i>
+<li>Click <a href="">here</a> for a comprehensive guide.
+
+
+
+
+<hr style="border-top: dashed 1px;" />
+
+
+<h2>Communications:</h2>
+Open a fresh <a href="https://github.com/nixellar/requests/issues">issue</a> on "github.com/nixellar/requests/issues" to begin the swap procedure.<br>
+Fill in the issue template or the e-Mail as follows:<br>
+<pre>
+Desired asset:{XLM or NIX}
+Your address:{XLM-address or NIX-address}
+Extra information: {Everything else.}
+</pre>
+Alternatively, you can also e-Mail us on "nixellar" at "protonmail" dot "com" with your request.
+
+
+<hr style="border-top: dashed 1px;" />
+
+
+<h4>Important links:</h4>
+<li>Introduction to <a href="index">services available</a> on Nixellar.</li><br>
+<li>Guides:<ul>
+<li><a href="../guides/TypeA">Type A guide</a>.</li>
+<li><a href="../guides/TypeB">Type B guide</a>.</li>
+<li><a href="../guides/TypeC">Type C guide</a>.</li>
+<li><a href="../guides/TypeD">Type D guide</a>.</li>
+<li><a href="../guides/TypeE">Type E guide</a>.</li>
+<li><a href="../guides/TypeE_Route1">Type E - Route 1 guide</a>.</li>
+<li><a href="../guides/TypeE_Route2">Type E - Route 2 guide</a>.</li>
+<li><a href="../guides/TypeE_Route3">Type E - Route 3 guide</a>.</li>
+<li><a href="../guides/TypeF">Type F guide</a>.</li></ul>
+</li>
+<li>Fees <a href="../fees/index">structures</a>.</li><br>
+<li>Nixellar "<a href="../tos.md">Terms of Service</a>".</li><br>
+<li>Our non-intrusive user-friendly "<a href="../tos.md">Privacy Policy</a>".</li></body></html>
